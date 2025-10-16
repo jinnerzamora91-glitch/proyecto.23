@@ -38,7 +38,6 @@ EvolucionMedica → Registra diagnóstico, tratamiento, observaciones y medicame
 Medicamento → Representa el nombre, dosis y frecuencia del tratamiento.  
 CitaMedica → Gestiona fecha, hora, motivo, médico y paciente.  
 SistemaClinico → Clase principal que contiene los menús y listas de entidades.  
-Registrable (Interfaz) → Define métodos para guardar y cargar datos.
 
 Requerimientos Funcionales
 
