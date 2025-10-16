@@ -22,7 +22,7 @@ Concepto | Ejemplo en el proyecto
 Encapsulamiento | Uso de atributos private y métodos get/set en todas las clases. 
 Herencia | Medico y Paciente heredan de la clase abstracta Persona. 
 Polimorfismo (Sobrescritura) | mostrarInfo() es sobreescrito en Medico y Paciente. 
-Polimorfismo (Sobrecarga) | Métodos sobrecargados en la clase ArchivoManager. 
+Polimorfismo (Sobrecarga) | Métodos sobrecargados. 
 Composición | HistoriaClinica contiene una lista de EvolucionMedica. 
 Agregación | EvolucionMedica agrega varios Medicamento. 
 Asociación | CitaMedica se asocia a un Medico y un Paciente. 
